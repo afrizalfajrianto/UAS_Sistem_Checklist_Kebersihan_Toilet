@@ -8,7 +8,7 @@
 |Ahmad Yuda Ramadhan |312210650|TI.22.A.4|Pemograman Web 1|
 |Dhefi Nur Kholik|312210107|TI.22.A.4|Pemograman Web 1|
 
-[Link Dokumentasi YouTube](https://youtu.be/GyDch9eYWgE)
+
 
 ***( turn off windows security )***
 
