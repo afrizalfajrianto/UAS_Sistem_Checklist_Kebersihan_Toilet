@@ -12,7 +12,7 @@
 
 - [Link Dokumentasi YouTube](https://youtu.be/VCdGtTSFs0U)
 
-***( turn off windows security )***
+
 
 
 ## Tampilan Pada Halaman Website
