@@ -12,6 +12,14 @@
 
 - [Link Dokumentasi YouTube](https://youtu.be/VCdGtTSFs0U)
 
+<img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">
+
+- [Link Demo on Web Hosting](https://afrizalfajriantoas.000webhostapp.com/)
+
+username : admin
+password : admin
+
+
 
 
 ## Tampilan Pada Halaman Website
