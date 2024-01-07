@@ -12,12 +12,9 @@
 
 - [Link Dokumentasi YouTube](https://youtu.be/VCdGtTSFs0U)
 
-
 <img src=https://images.bisnis.com/posts/2021/01/14/1342816/drive.jpg width="130px">
 
-
 - [Link Pdf Proses Pembuatan](https://drive.google.com/file/d/1S_83qS0ysPIi5j-AecaYfxzh7zXH3Buf/view?usp=sharing)
-
 
 <img src=https://res.cloudinary.com/practicaldev/image/fetch/s--ux15-5qy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg width="120px">
 
