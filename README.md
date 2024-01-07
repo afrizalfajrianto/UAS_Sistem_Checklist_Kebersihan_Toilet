@@ -6,7 +6,7 @@
 |----|---|-----|------|
 |Afrizal Fajrianto Anggara Sakti|312210449|TI.22.A.4|Pemograman Web 1|
 |Ahmad Yuda Ramadhan |312210650|TI.22.A.4|Pemograman Web 1|
-|Dhefi Nur Kholik|312210414|TI.22.A.4|Pemograman Web 1|
+|Dhefi Nurkholik|312210414|TI.22.A.4|Pemograman Web 1|
 
 <img src=https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png width="130px">
 
